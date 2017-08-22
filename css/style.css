@@ -7,3 +7,16 @@ body {
   background: -moz-linear-gradient(#ebdfd3, #ceb08e); /* For Firefox 3.6 to 15 */
   background: linear-gradient(#ebdfd3, #ceb08e); /* Standard syntax */
 }
+
+/* Custom page header */
+.header {
+  padding-bottom: 1rem;
+  border-bottom: .05rem solid #e5e5e5;
+}
+
+/* Make the masthead heading the same height as the navigation */
+.header h3 {
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 3rem;
+}
