@@ -53,6 +53,12 @@ h3 {
   margin-left: -20px;
 }
 
+.header,
+.footer {
+  padding-right: 1rem;
+  padding-left: 1rem;
+}
+
 .portray {
   position: relative;
   float: left;
@@ -103,6 +109,8 @@ h3 {
   box-shadow: 0 5px #666;
   transform: translateY(4px);
 }
+
+
 
 /* Customize container */
 @media (min-width: 48em) {
