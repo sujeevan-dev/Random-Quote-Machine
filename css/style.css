@@ -94,6 +94,16 @@ h3 {
   box-shadow: 0 9px #999;
 }
 
+.btn:hover {
+  background-color: #3e8e41;
+}
+
+.btn:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
 /* Customize container */
 @media (min-width: 48em) {
   .container {
