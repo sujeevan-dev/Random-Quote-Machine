@@ -68,6 +68,11 @@ h3 {
   filter: drop-shadow(8px 8px 10px #999999);
 }
 
+.title {
+  position: relative;
+  margin-right: 80px;
+}
+
 /* Customize container */
 @media (min-width: 48em) {
   .container {
