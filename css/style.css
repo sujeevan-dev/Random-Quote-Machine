@@ -1,0 +1,9 @@
+body {
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  background-color: #ceb08e; 
+  background: -webkit-linear-gradient(#ebdfd3, #ceb08e); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(#ebdfd3, #ceb08e); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(#ebdfd3, #ceb08e); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(#ebdfd3, #ceb08e); /* Standard syntax */
+}
